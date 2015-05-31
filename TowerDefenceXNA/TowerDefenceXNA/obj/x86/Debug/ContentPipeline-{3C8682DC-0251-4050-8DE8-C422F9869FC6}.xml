@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\table_background_tower.png</Source>
+      <Name>Images\table_background_tower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\table_background_tower.xnb</Output>
+      <Time>2015-04-07T10:02:37.3602613+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\easy_map.png</Source>
+      <Name>Images\easy_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\easy_map.xnb</Output>
+      <Time>2015-04-24T12:30:36.9247218+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\health_bar.png</Source>
+      <Name>Images\health_bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\health_bar.xnb</Output>
+      <Time>2015-04-24T12:30:36.9177214+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\hud.png</Source>
+      <Name>Images\hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\hud.xnb</Output>
+      <Time>2015-04-24T12:30:36.9267219+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tower_podium.png</Source>
+      <Name>Images\tower_podium</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\tower_podium.xnb</Output>
+      <Time>2015-04-24T12:30:36.9217216+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tower_portraits.png</Source>
+      <Name>Images\tower_portraits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\tower_portraits.xnb</Output>
+      <Time>2015-04-24T12:30:36.9327223+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\tower_spritesheet.png</Source>
+      <Name>Images\tower_spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\tower_spritesheet.xnb</Output>
+      <Time>2015-04-24T12:30:36.9347224+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\zombies.png</Source>
+      <Name>Images\zombies</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\zombies.xnb</Output>
+      <Time>2015-04-24T12:30:36.9377225+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\background.jpg</Source>
+      <Name>Images\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\background.xnb</Output>
+      <Time>2015-05-04T14:05:04.4246158+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\newGame1.png</Source>
+      <Name>Images\newGame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\newGame1.xnb</Output>
+      <Time>2015-05-04T14:05:04.4346158+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\newGame2.png</Source>
+      <Name>Images\newGame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\newGame2.xnb</Output>
+      <Time>2015-05-04T14:05:04.4946159+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2015-04-25T13:32:02.0155724+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\game_field.PNG</Source>
+      <Name>Images\game_field</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\game_field.xnb</Output>
+      <Time>2015-05-04T17:09:30.3862254+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font2.spritefont</Source>
+      <Name>font2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\font2.xnb</Output>
+      <Time>2015-05-08T13:25:29.4465509+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\gameover.jpg</Source>
+      <Name>Images\gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\gameover.xnb</Output>
+      <Time>2015-05-08T18:14:05.3699651+03:00</Time>
+    </Item>
+    <Item>
+      <Source>font3.spritefont</Source>
+      <Name>font3</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\font3.xnb</Output>
+      <Time>2015-05-08T19:10:44.7914009+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\fire.png</Source>
+      <Name>Images\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\Images\fire.xnb</Output>
+      <Time>2015-05-11T15:03:21.8277418+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3C8682DC-0251-4050-8DE8-C422F9869FC6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNAContent\</RootDirectory>
+      <LoggerRootDirectory>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-24T11:43:10.3879092+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

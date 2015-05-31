@@ -1,0 +1,14 @@
+message: Error loading "Images\hud". File not found.
+sourse: Microsoft.Xna.Framework
+stackTrace:    в Microsoft.Xna.Framework.Content.ContentManager.OpenStream(String assetName)
+   в Microsoft.Xna.Framework.Content.ContentManager.ReadAsset[T](String assetName, Action`1 recordDisposableObject)
+   в Microsoft.Xna.Framework.Content.ContentManager.Load[T](String assetName)
+   в TowerDefenceXNA.Sprites.SpriteManager.LoadContent() в d:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\Sprites\SpriteManager.cs:строка 143
+   в Microsoft.Xna.Framework.DrawableGameComponent.Initialize()
+   в TowerDefenceXNA.Sprites.SpriteManager..ctor(Game game) в d:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\Sprites\SpriteManager.cs:строка 27
+   в TowerDefenceXNA.Game1.Initialize() в d:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\Game1.cs:строка 40
+   в Microsoft.Xna.Framework.Game.RunGame(Boolean useBlockingRun)
+   в TowerDefenceXNA.Program.Main() в d:\MyDocuments\Visual Studio 2013\Projects\TowerDefenceXNA\TowerDefenceXNA\TowerDefenceXNA\Program.cs:строка 25
+
+----------------------
+
