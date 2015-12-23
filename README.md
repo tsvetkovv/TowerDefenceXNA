@@ -1,4 +1,8 @@
 # TowerDefenceXNA
+
+Для работы необходим Microsoft XNA Framework:
+https://www.microsoft.com/en-us/download/details.aspx?id=27598
+
 Управление: 
 
 Space - досрочный вызов волны
